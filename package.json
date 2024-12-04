@@ -1,7 +1,8 @@
 {
-  "name": "using-pre-built-react-components-completed",
+  "name": "keeper-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://brendanranney.github.io/keeper-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
